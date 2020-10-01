@@ -1,2 +1,2 @@
-# EvolutionSimulator
-Python-based evolution simulation
+# An Amazing Python Based Evolution Simulator
+
